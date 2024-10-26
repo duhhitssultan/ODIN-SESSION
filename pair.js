@@ -58,21 +58,20 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 
-┏━✦✧━━━⟪ *𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐎𝐃𝐈𝐍* ⟫━━━✧✦
+┏━✦✧━⟪ *𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐎𝐃𝐈𝐍* ⟫━✧✦
 ┃SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
-┗━✦✧━━━━━━━━━━━━━━━━━━━━━━✧✦
+┗━✦✧━━━━━━━━━━━━━━━✧✦
 ════════════════════
-❶ || Creator = 𓋹 𝙷𝙸𝙼 𓃵 x 𝕹𝕺𝕭𝕺𝕯𝖄 𝕰𝕸𝕻 𓋹
+❶ || Devs: 𝙷𝙸𝙼 𓃵 x 𝕹𝕺𝕭𝕺𝕯𝖄 𝕰𝕸𝕻 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhatsApp Channel =  https://whatsapp.com/channel/0029Vam8vaqJuyA9UMNghH3Q
 ════════════════════
 Please Follow My Support Channel
 Have sumn to say?👉 https://t.me/duhh_itshim 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-'Disclaimer': This bot is cloned and programmed with inspiration from other bots like Suhail, Wasi, Alya etc.
-Currently using it for some research and for gaining additional knowledge. All Rights Reserved.
+`Disclaimer`: This bot's development was influenced by existing bots, including Suhail, Wasi, and Alya (etc). Its purpose is for research and knowledge expansion. All rights reserved.
 ©*2024 𝙷𝙸𝙼 𓃵* 
 ════════════════════`
 
