@@ -71,7 +71,7 @@ router.get('/', async (req, res) => {
 Please Follow My Support Channel
 Have sumn to say?👉 https://t.me/duhh_itshim 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-`Disclaimer`: This bot's development was influenced by existing bots, including Suhail, Wasi, and Alya (etc). Its purpose is for research and knowledge expansion. All rights reserved.
+*_Disclaimer_*: This bot's development was influenced by existing bots, including Suhail, Wasi, and Alya (etc). Its purpose is for research and knowledge expansion. All rights reserved.
 ©*2024 𝙷𝙸𝙼 𓃵* 
 ════════════════════`
 
